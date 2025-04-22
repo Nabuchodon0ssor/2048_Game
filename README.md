@@ -36,7 +36,7 @@ Combine tiles with the same value to reach the legendary 2048 tile — and beyon
    Java 17+
    Maven enabled (IDE will detect pom.xml)
    JavaFX plugin not required — it’s all configured
-5. Run the Main.java file:
+4. Run the Main.java file:
    ```bash
    File location: src/main/java/com/game/game_2048/Main.java
    Or use the IDE’s “Run” button.
