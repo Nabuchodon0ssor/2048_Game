@@ -20,10 +20,8 @@ Combine tiles with the same value to reach the legendary 2048 tile — and beyon
 - 🧠 Modular MVC architecture and clean codebase
 
 ## Screenshots
+![screenshot](https://github.com/user-attachments/assets/f1288900-0b7a-473e-bb3b-c416747bd01a)
 
-<img src="https://github.com/yourusername/2048_Game/assets/sample-screenshot.png" width="500"/>
-
-*(Add your own screenshot here)*
 
 ## How to Run
 
